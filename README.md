@@ -1,0 +1,2 @@
+# paycharm
+kodlar bilan ishlash
